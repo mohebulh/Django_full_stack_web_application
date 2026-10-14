@@ -1,3 +1,5 @@
+#University Cyber Clinic is full stack web application with front and back end with database to provide cyber security services to local SME's and build a brigde among university and locals.
+
 # Detailed Project Timeline
 
 ## Phase 1: Project Planning & Setup (Oct 28 - Nov 15, 2024)
